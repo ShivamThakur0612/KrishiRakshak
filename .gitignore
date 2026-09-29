@@ -1,0 +1,15 @@
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+
+data/raw/*.jpg
+data/raw/*.jpeg
+data/raw/*.png
+
+.venv/
+venv/
+env/
+
+*.log
+.DS_Store
