@@ -1,15 +1,29 @@
-_pycache_/
+# Python
+__pycache__/
 *.pyc
 *.pyo
 *.pyd
 
+# Raw datasets
 data/raw/*.jpg
 data/raw/*.jpeg
 data/raw/*.png
+data/raw/maize/
 
+# Processed datasets
+data/processed/maize/
+data/processed/misclassified/
+
+# Trained model checkpoints
+models/vision/*.pth
+
+# Environments
 .venv/
 venv/
 env/
 
+# Logs
 *.log
+
+# OS
 .DS_Store
