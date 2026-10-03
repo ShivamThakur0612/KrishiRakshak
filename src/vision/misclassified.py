@@ -21,7 +21,7 @@ MODEL_PATH = (
     PROJECT_ROOT
     / "models"
     / "vision"
-    / "best_maize_mobilenetv3_small.pth"
+    / "best_maize_mobilenetv3_small_finetuned.pth"
 )
 
 OUTPUT_DIR = (

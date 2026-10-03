@@ -1,0 +1,95 @@
+{
+  "crop": "maize",
+  "diseases": {
+    "common_rust": {
+      "name": "Common Rust",
+      "symptoms": [
+        "Small reddish-brown to rust-colored pustules may appear on both sides of maize leaves.",
+        "Pustules can become more numerous as disease develops.",
+        "Severely affected leaves may show yellowing or reduced photosynthetic area."
+      ],
+      "favorable_conditions": [
+        "Cool to moderate temperatures can favor disease development.",
+        "Extended periods of leaf wetness can support infection."
+      ],
+      "prevention": [
+        "Use healthy and suitable seed.",
+        "Maintain good field sanitation.",
+        "Use locally recommended resistant or tolerant varieties where available.",
+        "Monitor fields regularly for early symptoms."
+      ],
+      "management": [
+        "Scout regularly and identify symptoms early.",
+        "Consider locally recommended disease-management practices.",
+        "Follow current agricultural extension recommendations before applying any fungicide."
+      ],
+      "source": "Agricultural extension and crop-disease reference material; local recommendations should be verified before treatment."
+    },
+
+    "gray_leaf_spot": {
+      "name": "Gray Leaf Spot",
+      "symptoms": [
+        "Lesions may begin as small pale or tan spots.",
+        "Lesions can develop into elongated rectangular or gray-brown areas.",
+        "Multiple lesions may merge and reduce the functional leaf area."
+      ],
+      "favorable_conditions": [
+        "Warm and humid conditions can favor disease development.",
+        "Extended periods of leaf wetness can increase disease risk."
+      ],
+      "prevention": [
+        "Use suitable resistant or tolerant varieties where available.",
+        "Remove or manage infected crop residues according to local recommendations.",
+        "Maintain appropriate field management and monitor crop development."
+      ],
+      "management": [
+        "Scout lower leaves and monitor disease progression.",
+        "Use locally recommended integrated disease-management practices.",
+        "Consult agricultural extension guidance before selecting chemical treatment."
+      ],
+      "source": "Agricultural extension and crop-disease reference material; local recommendations should be verified before treatment."
+    },
+
+    "healthy": {
+      "name": "Healthy",
+      "symptoms": [
+        "No strong visual evidence of the four target diseases was detected."
+      ],
+      "favorable_conditions": [],
+      "prevention": [
+        "Continue regular crop scouting.",
+        "Maintain appropriate irrigation, nutrition, sanitation, and field management.",
+        "Monitor newly developing leaves for changes."
+      ],
+      "management": [
+        "No disease-specific treatment should be recommended solely from this classification.",
+        "Continue routine monitoring."
+      ],
+      "source": "KrishiRakshak vision classification category."
+    },
+
+    "northern_leaf_blight": {
+      "name": "Northern Leaf Blight",
+      "symptoms": [
+        "Long, elongated gray-green to tan lesions may develop on maize leaves.",
+        "Lesions can expand and become more visible as disease progresses.",
+        "Severe infection can reduce healthy leaf area."
+      ],
+      "favorable_conditions": [
+        "Moderate temperatures and prolonged leaf wetness can favor disease development.",
+        "Humid conditions can increase disease risk."
+      ],
+      "prevention": [
+        "Use suitable resistant or tolerant varieties where available.",
+        "Manage infected crop residue according to local agricultural recommendations.",
+        "Scout fields regularly for early symptoms."
+      ],
+      "management": [
+        "Monitor disease progression across the crop.",
+        "Use integrated disease-management practices recommended for the local region.",
+        "Consult current agricultural extension recommendations before applying fungicides."
+      ],
+      "source": "Agricultural extension and crop-disease reference material; local recommendations should be verified before treatment."
+    }
+  }
+}
